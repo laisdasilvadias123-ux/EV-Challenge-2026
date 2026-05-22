@@ -125,6 +125,7 @@ https://youtu.be/n4TSaKXB5DY
 
 ---
  
-# 🔗 Repositório
+# Repositório
  
 Link do GitHub:
+https://github.com/laisdasilvadias123-ux/EV-Challenge-2026.git
